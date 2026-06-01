@@ -1,0 +1,4 @@
+DirectoryIndex index.xml
+ForceType application/xml
+Header set Content-Type "application/xml; charset=UTF-8"
+Header set Cache-Control "no-cache, no-store"
