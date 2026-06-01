@@ -1,2 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<vercheck protocol="1.0"/>
+<vercheck protocol="1.0">
+  <update version="0.1.0.0" type="Minor" title="Tahopen CE">
+    <downloadurl>https://tahopen.org/download</downloadurl>
+  </update>
+</vercheck>
